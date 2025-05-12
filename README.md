@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arghadeeph
-- 👀 I’m interested in React Js
-- 🌱 I’m currently learning React Js & Laravel 8
+- 👀 I’m interested in Python & Django
+- 🌱 I’m currently learning Python & working on Ci4 & Laravel 10
 
 
 <!---
