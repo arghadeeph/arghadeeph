@@ -89,6 +89,19 @@ class ArghadeepHalder
 
 ## 🌟 Featured Projects
 
+### AI Transcription & Translation Platform *(Python)*
+> `Django REST Framework` &nbsp;`OpenAI Whisper` &nbsp;`GPT-4` &nbsp;`React` &nbsp;`Vercel`
+
+AI-powered audio transcription platform with multilingual translation.
+
+- OpenAI Whisper for transcription + GPT-4 for multilingual output
+- Django REST API backend · React frontend · auto-deploy via Git CI/CD
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://transcribe-ai-nine.vercel.app)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph)
+
+---
+
 ### Enterprise Training & Service Management System
 > `Laravel API` &nbsp;`Laravel Nova` &nbsp;`Ionic Vue` &nbsp;`MySQL` &nbsp;`JWT` &nbsp;`RBAC`
 
@@ -98,6 +111,18 @@ Production enterprise system powering cross-platform mobile + web operations.
 - Laravel Nova admin: training programs, referrals, timesheet management
 - Optimized MySQL queries → **60% faster** response time
 - Git branching strategy with structured code review workflows
+
+---
+
+### AI Chat Backend — Laravel + RAG *(PHP + AI)*
+> `Laravel` &nbsp;`Ollama LLM` &nbsp;`RAG Pipeline` &nbsp;`REST API`
+
+Backend chatbot using local LLMs with Retrieval-Augmented Generation.
+
+- Ollama LLM integration for on-premise model inference
+- RAG pipeline for context-aware, document-grounded responses
+
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph/AI-Chat-Backend-in-Laravel)
 
 ---
 
@@ -125,30 +150,6 @@ Comprehensive financial system handling loan lifecycle, EMI, and disbursements.
 
 ---
 
-### AI Transcription & Translation Platform *(Python)*
-> `Django REST Framework` &nbsp;`OpenAI Whisper` &nbsp;`GPT-4` &nbsp;`React` &nbsp;`Vercel`
-
-AI-powered audio transcription platform with multilingual translation.
-
-- OpenAI Whisper for transcription + GPT-4 for multilingual output
-- Django REST API backend · React frontend · auto-deploy via Git CI/CD
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://transcribe-ai-nine.vercel.app)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph)
-
----
-
-### AI Chat Backend — Laravel + RAG *(PHP + AI)*
-> `Laravel` &nbsp;`Ollama LLM` &nbsp;`RAG Pipeline` &nbsp;`REST API`
-
-Backend chatbot using local LLMs with Retrieval-Augmented Generation.
-
-- Ollama LLM integration for on-premise model inference
-- RAG pipeline for context-aware, document-grounded responses
-
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph/AI-Chat-Backend-in-Laravel)
-
----
 
 ## 📊 GitHub Stats
 
