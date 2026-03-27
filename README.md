@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/arghadeeph%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arghadeeph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghadeeph)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/arghadeeph/arghadeep-portfolio](https://arghadeep-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://arghadeep-portfolio.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=arghadeeph&style=flat-square&color=6366f1&label=visitors)](https://github.com/arghadeeph)
 
 </div>
@@ -98,7 +98,7 @@ AI-powered audio transcription platform with multilingual translation.
 - Django REST API backend · React frontend · auto-deploy via Git CI/CD
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://transcribe-ai-nine.vercel.app)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph)
 
 ---
 
@@ -114,7 +114,6 @@ Production enterprise system powering cross-platform mobile + web operations.
 
 ---
 
-
 ### AI Chat Backend — Laravel + RAG *(PHP + AI)*
 > `Laravel` &nbsp;`Ollama LLM` &nbsp;`RAG Pipeline` &nbsp;`REST API`
 
@@ -123,7 +122,7 @@ Backend chatbot using local LLMs with Retrieval-Augmented Generation.
 - Ollama LLM integration for on-premise model inference
 - RAG pipeline for context-aware, document-grounded responses
 
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph/AI-Chat-Backend-in-Laravel)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph/AI-Chat-Backend-in-Laravel)
 
 ---
 
@@ -136,7 +135,7 @@ Full MIS system handling bookings, inventory, leads, and automated reporting.
 - RESTful APIs for WordPress frontend + third-party integrations
 - Automated inventory tracking, booking flow, and lead management
 
-[![Live Site](https://img.shields.io/badge/Live_Site-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://just4funpartyrentals.com)
+[![Live Site](https://img.shields.io/badge/Live_Site-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://just4funpartyrentals.com)
 
 ---
 
@@ -151,26 +150,25 @@ Comprehensive financial system handling loan lifecycle, EMI, and disbursements.
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arghadeeph&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arghadeeph&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arghadeeph&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arghadeeph&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arghadeeph&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arghadeeph&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arghadeeph&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arghadeeph&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff9800)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -187,11 +185,13 @@ Comprehensive financial system handling loan lifecycle, EMI, and disbursements.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/arghadeeph%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arghadeeph@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-arghadeeph%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arghadeeph@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghadeeph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arghadeep_Halder-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghadeeph)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph)
+[![GitHub](https://img.shields.io/badge/GitHub-arghadeeph-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arghadeeph)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-arghadeep--portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://arghadeep-portfolio.vercel.app/)
 
 <br/>
 
