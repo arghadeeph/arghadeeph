@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/arghadeeph%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arghadeeph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghadeeph)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://arghadeep-portfolio.vercel.app/)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/arghadeeph/arghadeep-portfolio](https://arghadeep-portfolio.vercel.app/))
 [![Profile Views](https://komarev.com/ghpvc/?username=arghadeeph&style=flat-square&color=6366f1&label=visitors)](https://github.com/arghadeeph)
 
 </div>
@@ -114,6 +114,7 @@ Production enterprise system powering cross-platform mobile + web operations.
 
 ---
 
+
 ### AI Chat Backend — Laravel + RAG *(PHP + AI)*
 > `Laravel` &nbsp;`Ollama LLM` &nbsp;`RAG Pipeline` &nbsp;`REST API`
 
@@ -155,9 +156,9 @@ Comprehensive financial system handling loan lifecycle, EMI, and disbursements.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arghadeeph&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arghadeeph&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghadeeph&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arghadeeph&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
