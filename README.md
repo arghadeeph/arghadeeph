@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/arghadeeph%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arghadeeph@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghadeeph)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/arghadeeph/arghadeep-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://arghadeep-portfolio.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=arghadeeph&style=flat-square&color=6366f1&label=visitors)](https://github.com/arghadeeph)
 
 </div>
